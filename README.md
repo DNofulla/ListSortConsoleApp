@@ -6,4 +6,4 @@
 
 ## To run
 
-dotnet run
+`dotnet run`
