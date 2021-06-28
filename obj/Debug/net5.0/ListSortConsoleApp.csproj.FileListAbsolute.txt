@@ -1,0 +1,16 @@
+D:\Projects\ListSortConsoleApp\bin\Debug\net5.0\ListSortConsoleApp.exe
+D:\Projects\ListSortConsoleApp\bin\Debug\net5.0\ListSortConsoleApp.deps.json
+D:\Projects\ListSortConsoleApp\bin\Debug\net5.0\ListSortConsoleApp.runtimeconfig.json
+D:\Projects\ListSortConsoleApp\bin\Debug\net5.0\ListSortConsoleApp.runtimeconfig.dev.json
+D:\Projects\ListSortConsoleApp\bin\Debug\net5.0\ListSortConsoleApp.dll
+D:\Projects\ListSortConsoleApp\bin\Debug\net5.0\ref\ListSortConsoleApp.dll
+D:\Projects\ListSortConsoleApp\bin\Debug\net5.0\ListSortConsoleApp.pdb
+D:\Projects\ListSortConsoleApp\obj\Debug\net5.0\ListSortConsoleApp.csproj.AssemblyReference.cache
+D:\Projects\ListSortConsoleApp\obj\Debug\net5.0\ListSortConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\ListSortConsoleApp\obj\Debug\net5.0\ListSortConsoleApp.AssemblyInfoInputs.cache
+D:\Projects\ListSortConsoleApp\obj\Debug\net5.0\ListSortConsoleApp.AssemblyInfo.cs
+D:\Projects\ListSortConsoleApp\obj\Debug\net5.0\ListSortConsoleApp.csproj.CoreCompileInputs.cache
+D:\Projects\ListSortConsoleApp\obj\Debug\net5.0\ListSortConsoleApp.dll
+D:\Projects\ListSortConsoleApp\obj\Debug\net5.0\ref\ListSortConsoleApp.dll
+D:\Projects\ListSortConsoleApp\obj\Debug\net5.0\ListSortConsoleApp.pdb
+D:\Projects\ListSortConsoleApp\obj\Debug\net5.0\ListSortConsoleApp.genruntimeconfig.cache
