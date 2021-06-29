@@ -1,4 +1,4 @@
-# Singly Linked List Sorting Console App in C# using Merge Sort
+# Singly Linked List Sorting Console App in C# (Merge Sort) (Written for MLH INIT 2022 Hackathon Day 2 Devpost Challenge)
 
 ## Prerequisites:
 
